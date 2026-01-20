@@ -1,4 +1,4 @@
-## Past Case Study
+## FastAPI React.Js Case Study
 
 Dashboard for User Item Management of an Organization
 
