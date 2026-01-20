@@ -1,4 +1,4 @@
-## SolarVis Case Study
+## Past Case Study
 
 Dashboard for User Item Management of an Organization
 
